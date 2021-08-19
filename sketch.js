@@ -52,7 +52,7 @@ var target2;
 
 function preload() {
   //load game assets
-  groundImage = loadImage("https://parthseh123.github.io/game-for-phonesimages/background.png");
+  groundImage = loadImage("https://parthseh123.github.io/game-for-phones/images/background.png");
   targetImage = loadImage("https://parthseh123.github.io/game-for-phones/images/target.png");
   playerImage = loadImage("https://parthseh123.github.io/game-for-phones/images/player.png")
   winsound = loadSound("winso.mp3")
