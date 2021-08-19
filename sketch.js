@@ -56,10 +56,10 @@ function preload() {
   targetImage = loadImage("https://parthseh123.github.io/game-for-phones/images/target.png");
   playerImage = loadImage("https://parthseh123.github.io/game-for-phones/images/player.png")
   winsound = loadSound("winso.mp3")
-  upImage = loadImage("images/up.png")
-  downImage = loadImage("images/down.png")
-  leftImage = loadImage("images/left.png")
-  rightImage = loadImage("images/right.png")
+  upImage = loadImage("https://parthseh123.github.io/game-for-phones/images/up.png")
+  downImage = loadImage("https://parthseh123.github.io/game-for-phones/images/down.png")
+  leftImage = loadImage("https://parthseh123.github.io/game-for-phones/images/left.png")
+  rightImage = loadImage("https://parthseh123.github.io/game-for-phones/images/right.png")
 }
 
 
