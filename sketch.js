@@ -52,9 +52,9 @@ var target2;
 
 function preload() {
   //load game assets
-  groundImage = loadImage("../images/background.png");
-  targetImage = loadImage("../images/target.png");
-  playerImage = loadImage("/images/player.png")
+  groundImage = loadImage("https://parthseh123.github.io/game3/images/background.png");
+  targetImage = loadImage("https://parthseh123.github.io/game3/images/target.png");
+  playerImage = loadImage("https://parthseh123.github.io/game3/images/player.png")
   winsound = loadSound("winso.mp3")
   upImage = loadImage("images/up.png")
   downImage = loadImage("images/down.png")
